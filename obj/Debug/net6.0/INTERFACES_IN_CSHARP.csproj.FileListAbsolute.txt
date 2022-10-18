@@ -1,0 +1,15 @@
+/home/robert/InterfacesReview_10_18_22/INTERFACES_IN_CSHARP/bin/Debug/net6.0/INTERFACES_IN_CSHARP
+/home/robert/InterfacesReview_10_18_22/INTERFACES_IN_CSHARP/bin/Debug/net6.0/INTERFACES_IN_CSHARP.deps.json
+/home/robert/InterfacesReview_10_18_22/INTERFACES_IN_CSHARP/bin/Debug/net6.0/INTERFACES_IN_CSHARP.runtimeconfig.json
+/home/robert/InterfacesReview_10_18_22/INTERFACES_IN_CSHARP/bin/Debug/net6.0/INTERFACES_IN_CSHARP.dll
+/home/robert/InterfacesReview_10_18_22/INTERFACES_IN_CSHARP/bin/Debug/net6.0/ref/INTERFACES_IN_CSHARP.dll
+/home/robert/InterfacesReview_10_18_22/INTERFACES_IN_CSHARP/bin/Debug/net6.0/INTERFACES_IN_CSHARP.pdb
+/home/robert/InterfacesReview_10_18_22/INTERFACES_IN_CSHARP/obj/Debug/net6.0/INTERFACES_IN_CSHARP.csproj.AssemblyReference.cache
+/home/robert/InterfacesReview_10_18_22/INTERFACES_IN_CSHARP/obj/Debug/net6.0/INTERFACES_IN_CSHARP.GeneratedMSBuildEditorConfig.editorconfig
+/home/robert/InterfacesReview_10_18_22/INTERFACES_IN_CSHARP/obj/Debug/net6.0/INTERFACES_IN_CSHARP.AssemblyInfoInputs.cache
+/home/robert/InterfacesReview_10_18_22/INTERFACES_IN_CSHARP/obj/Debug/net6.0/INTERFACES_IN_CSHARP.AssemblyInfo.cs
+/home/robert/InterfacesReview_10_18_22/INTERFACES_IN_CSHARP/obj/Debug/net6.0/INTERFACES_IN_CSHARP.csproj.CoreCompileInputs.cache
+/home/robert/InterfacesReview_10_18_22/INTERFACES_IN_CSHARP/obj/Debug/net6.0/INTERFACES_IN_CSHARP.dll
+/home/robert/InterfacesReview_10_18_22/INTERFACES_IN_CSHARP/obj/Debug/net6.0/ref/INTERFACES_IN_CSHARP.dll
+/home/robert/InterfacesReview_10_18_22/INTERFACES_IN_CSHARP/obj/Debug/net6.0/INTERFACES_IN_CSHARP.pdb
+/home/robert/InterfacesReview_10_18_22/INTERFACES_IN_CSHARP/obj/Debug/net6.0/INTERFACES_IN_CSHARP.genruntimeconfig.cache
